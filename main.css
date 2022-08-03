@@ -79,7 +79,7 @@ button:hover {
     background-color: hsl(158, 60%, 21%);
 }
 
-@media (max-width:375px) {
+@media (max-width:700px) {
     .container {
         grid-template-columns: 1fr;
     }
