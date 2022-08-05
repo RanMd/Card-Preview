@@ -81,6 +81,11 @@ del {
 button:hover {
     background-color: hsl(158, 60%, 21%);
 }
+footer {
+    position: absolute;
+    top: 100%;
+    left: 40%;
+}
 
 .attribution {
     font-family: montserrat;
